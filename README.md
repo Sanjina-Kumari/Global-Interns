@@ -88,5 +88,4 @@ Express.js,
 MySQL,
 dotenv for environment variable management
 
-## Contact
-For any questions or feedback, please contact [iftikhm@plu.edu] || [mahnooriftikharr@gmail.com]
+
